@@ -143,8 +143,6 @@ Gantt Chart Link: https://docs.google.com/spreadsheets/d/1gpiLcrv6uycD-P3OTyxp3y
 
 ERD Link:
 
-UI/UX Link:
-
 🤝 Thank you for being part of our journey. Happy coding! 🚀
 
 
