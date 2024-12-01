@@ -34,7 +34,9 @@ It enables customers to browse, add products to their cart, and place orders whi
 
 ### 2️⃣ Set Up Virtual Environment  
 #### 💻 Windows  
-```bash
+
+---
+
 python -m venv env  
 env\Scripts\activate  
 
