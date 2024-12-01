@@ -7,6 +7,8 @@
 ## 📌 Project Title  
 **💻 PC Retail Management System**  
 
+![PC Retail Management System](https://scontent.fceb2-2.fna.fbcdn.net/v/t1.15752-9/467640184_1095767921959562_7554987510356254706_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHQyNrpF6V6GG9MwEpolRq_5_vWXHjpBpHn-9ZceOkGkaIPpQcDQ_QzEWhP0AYdDENjFP6ti377FwxQ2hFEZl7-&_nc_ohc=45XRHFaCrX0Q7kNvgG8XVkP&_nc_zt=23&_nc_ht=scontent.fceb2-2.fna&oh=03_Q7cD1QGqZ8UEaajCvDGTO_mISedkd5V_-BvjPqO4bm5uSClK0A&oe=6774056F)
+
 ---
 
 ## 👥 Group Members  
