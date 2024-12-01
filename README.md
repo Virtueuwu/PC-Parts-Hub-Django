@@ -73,66 +73,68 @@ python manage.py runserver
 
 
 
+## 🎯 Functional Requirements
 
-🎯 Functional Requirements
-📝 Planning & Design
-✅ Project Planning
-🎨 Logo Design
-🎨 Color Theme/Palette Selection
-📐 Website Layout and Design
-👥 Role Assignment
-🔒 User Authentication
-Sign In & Create Account Page:
-📋 Input Boxes
-🖱️ Functional Buttons for Sign-In and Create Account
-💾 Integration with Database
-🔗 Navigation
-Navbar Functionalities:
-🏠 Home, 🛒 Product, ℹ️ About Us, 📦 My Order, 📝 Feedback, 🛍️ Cart
-🔑 Login/Register and Logo Buttons
-🔗 Links to Relevant Pages
-🧑‍💻 Dynamic States for Logged-In/Logged-Out Users
-🖼️ Pages & Features
-Home Page:
+### 📝 Planning & Design
+- ✅ Project Planning
+- 🎨 Logo Design
+- 🎨 Color Theme/Palette Selection
+- 📐 Website Layout and Design
+- 👥 Role Assignment
 
-✨ Layout & Design
-🛒 Shop Now Button
-🖼️ Carousel and Banner Design
-Cart Page:
+### 🔒 User Authentication
+**Sign In & Create Account Page:**
+- 📋 Input Boxes
+- 🖱️ Functional Buttons for Sign-In and Create Account
+- 💾 Integration with Database
 
-🛍️ View and Modify Cart Items
-🧮 Display Total Items and Price
-💾 Database Integration
-Checkout Page:
+### 🔗 Navigation
+**Navbar Functionalities:**
+- 🏠 Home
+- 🛒 Product
+- ℹ️ About Us
+- 📦 My Order
+- 📝 Feedback
+- 🛍️ Cart
+- 🔑 Login/Register and Logo Buttons
+- 🔗 Links to Relevant Pages
 
-📦 Shipping Address Input
-🧾 Order Summary
-💾 Database Integration
-Product Page:
+### 🧑‍💻 Dynamic States for Logged-In/Logged-Out Users
 
-🔍 View Products
-➕ Add to Cart
-💾 Dynamic Product Initialization from Database
-My Order Page:
+### 🖼️ Pages & Features
+**Home Page:**
+- ✨ Layout & Design
+- 🛒 Shop Now Button
+- 🖼️ Carousel and Banner Design
 
-🛒 View Purchased Items
-🔍 Search and Track Items
-Feedback Page:
+**Cart Page:**
+- 🛍️ View and Modify Cart Items
+- 🧮 Display Total Items and Price
+- 💾 Database Integration
 
-✍️ Suggestion Input Field
-📤 Upload Images or Screenshots
-💾 Database Integration
-About Us Page:
+**Checkout Page:**
+- 📦 Shipping Address Input
+- 🧾 Order Summary
+- 💾 Database Integration
 
-🖼️ Informative Carousel
-📍 Location and Content Details
-📑 Project Deliverables
-📂 Code Repository
-📄 Documentation:
-📅 Gantt Chart
-🗂️ ERD
-🎨 UI/UX Design
-🎉 Get Started
+**Product Page:**
+- 🔍 View Products
+- ➕ Add to Cart
+- 💾 Dynamic Product Initialization from Database
+
+**My Order Page:**
+- 🛒 View Purchased Items
+- 🔍 Search and Track Items
+
+**Feedback Page:**
+- ✍️ Suggestion Input Field
+- 📤 Upload Images or Screenshots
+- 💾 Database Integration
+
+**About Us Page:**
+- 🖼️ Informative Carousel
+- 📍 Location and Content Details
+
 This README contains everything you need to set up and contribute to the PC Retail Management System.
 
 Gantt Chart Link: https://docs.google.com/spreadsheets/d/1gpiLcrv6uycD-P3OTyxp3yOcmp6wYUmEqBeeAqgX6Cc/edit?gid=0#gid=0
